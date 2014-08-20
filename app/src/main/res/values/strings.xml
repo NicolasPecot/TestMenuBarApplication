@@ -4,5 +4,10 @@
     <string name="app_name">TestMenuBarApplication</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="recherche">Recherche</string>
+    <string name="rafraichir">Rafraichir</string>
+    <string name="aide">Aide</string>
+    <string name="apropos">A propos</string>
+    <string name="parametres">Paramètres</string>
 
 </resources>
